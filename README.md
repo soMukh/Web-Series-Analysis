@@ -32,15 +32,15 @@ The goal is to demonstrate **data storytelling** and provide
 
 ## 🚀 Tools & Technologies
 
--   **Tableau** → Data visualization and storytelling\
--   **Excel** → Dataset source\
+-   **Tableau** → Data visualization and storytelling
+-   **Excel** → Dataset source
 
 ------------------------------------------------------------------------
 
 ## 📈 Key Learnings
 
--   Identified top-rated shows and their genres.\
--   Found trends in release years and popularity.\
--   Analyzed how streaming platforms differ in ratings.\
--   Explored the impact of episodes/seasons on IMDB ratings.\
+-   Identified top-rated shows and their genres.
+-   Found trends in release years and popularity.
+-   Analyzed how streaming platforms differ in ratings.
+-   Explored the impact of episodes/seasons on IMDB ratings.
 -   Built interactive dashboards and parameter-driven insights.
