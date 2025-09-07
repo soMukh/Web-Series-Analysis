@@ -43,4 +43,3 @@ The goal is to demonstrate **data storytelling** and provide
 -   Found trends in release years and popularity.
 -   Analyzed how streaming platforms differ in ratings.
 -   Explored the impact of episodes/seasons on IMDB ratings.
--   Built interactive dashboards and parameter-driven insights.
